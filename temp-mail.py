@@ -33,6 +33,6 @@ for em in jsonres:
    
 #delete email - requires mail_id from json res obj - response should be 'success'
 
-mail_id = '51ff1de8971897bbf9e9196c9ccbd035'
+#mail_id = ''
 #getres = session.get('https://api4.temp-mail.org/request/delete/id/'+mail_id+'/')
 #print(getres.text)
