@@ -5,7 +5,7 @@
 import requests, hashlib
 session = requests.Session() 
 
-name = 'test1n9@beiop.com'
+name = 'test1n9'
 
 #only create new email if one wasnt provided
 if name.find('@')==-1:
